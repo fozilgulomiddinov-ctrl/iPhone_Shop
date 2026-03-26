@@ -1,0 +1,10 @@
+@import "tailwindcss";
+#li{
+  @apply cursor-pointer text-[#1d1d1f]
+}
+.a{
+    @apply text-blue-500 hover:underline text-xl p-2 font-semibold
+}
+.card{
+    @apply w-125 h-137.5 rounded-4xl bg-white
+}
